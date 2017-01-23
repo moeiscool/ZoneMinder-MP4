@@ -42,13 +42,15 @@ ZoneMinder was the first choice but it proved unstable. A few reasons are mentio
 
 - **Outdated methods**
  - Continuously hammering the database is not a good idea. It should already have had websockets added and interval refreshes removed completely before 2014.
- - Having to tip toe and continuously fix the mistakes of other developers is not how development should be. I should be able to download ZM and start editing it to the way i need. Why else is it open source? So people can commit random things?
-
-- **Delaying more than necessary**
- - Zoneminder has +70 devs and gaining +$900/month in donations.. they should have gotten somewhere with all of these issues if not eliminated them at least 4 years ago.
- - The excuse "I only work on this in my free time" is one used too often. Of course we are aware it's done in free time. We want an explanation why you couldn't or a theoretical solution, not an excuse why you didn't want to try.
 
 **These are just some reasons why Shinobi had to be born.** I couldn't wait any longer and the thought of donating to a team that ignores 4(+) year old issues seemed like a fools bet.
+
+# Take this into perspective
+Shinobi is a program that can do MP4 and WebM recording with MJPEG, JPEG, H264 Cameras and WebSocket streams. I compiled these features in less than 2 months. Alone. No funding.
+
+Zoneminder has +70 devs and gaining +$900/month in donations.. they couldn't even get MP4 recording done and its been 4 years since they started working on it.
+
+Yep. You decide what all that means and this is only the tip of the iceberg.
 
 "*Sounds like a lot of complaining? Yah, I know. So I went and did something about it.*"
 
