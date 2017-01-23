@@ -50,6 +50,8 @@ Shinobi is a program that can do MP4 and WebM recording with MJPEG, JPEG, H264 C
 
 Zoneminder devs couldn't get MP4 recording into the master branch and its been 4 years since they started working on it. While **+70 devs** and gaining **+$1200/month** in donations.
 
+4 years for them to do one feature and still not done. 2 months for me to put together many features they have been requested.
+
 **Yep.** You decide what all that means and *this is only the tip of the iceberg.*
 
 "*Sounds like a lot of complaining? Yah, I know. So I went and did something about it.*"
