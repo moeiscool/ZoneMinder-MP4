@@ -26,5 +26,5 @@ ZoneMinder was the first choice for CCTV and NVR but it proved unstable. A few r
 
 **These are just some reasons why Shinobi had to be born.** I couldn't wait any longer and the thought of donating to a team that ignores 4(+) year old issues seemed like a fools bet.
 
-Try the replacement to ZoneMinder instead and save yourself the nightmare that is zoneminder.
+Save yourself the nightmare that is zoneminder, Try Shinobi instead.
 https://github.com/moeiscool/Shinobi
