@@ -46,11 +46,11 @@ ZoneMinder was the first choice but it proved unstable. A few reasons are mentio
 **These are just some reasons why Shinobi had to be born.** I couldn't wait any longer and the thought of donating to a team that ignores 4(+) year old issues seemed like a fools bet.
 
 # Take this into perspective
-Shinobi is a program that can do MP4 and WebM recording with MJPEG, JPEG, H264 Cameras and WebSocket streams. I compiled these features in less than 2 months. Alone. No funding.
+Shinobi is a program that can do MP4 and WebM recording with MJPEG, JPEG, H264 Cameras and WebSocket streams. I compiled these features in less than 2 months. **Alone. No funding.**
 
-Zoneminder has +70 devs and gaining +$900/month in donations.. they couldn't even get MP4 recording done and its been 4 years since they started working on it.
+Zoneminder devs couldn't get MP4 recording into the master branch and its been 4 years since they started working on it. While **+70 devs** and gaining **+$1200/month** in donations.
 
-Yep. You decide what all that means and this is only the tip of the iceberg.
+**Yep.** You decide what all that means and *this is only the tip of the iceberg.*
 
 "*Sounds like a lot of complaining? Yah, I know. So I went and did something about it.*"
 
