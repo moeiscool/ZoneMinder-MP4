@@ -23,7 +23,7 @@ Shinobi can be used as a Baby Monitor, Construction Site Montage Viewer, Store C
 
 # Why make this? Other solutions already exist.
 
-Find out in the <a href="https://github.com/moeiscool/Shinobi/wiki">Wiki</a>!
+Find out <a href="https://github.com/moeiscool/Shinobi/wiki#why-make-this-other-solutions-already-exist">here</a>!
 
 <a href="https://github.com/moeiscool/Shinobi/wiki/Supported-Systems">Supported Systems</a>
 
